@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2021-11-20 18:43:50
- * @LastEditTime: 2021-11-20 19:12:48
+ * @LastEditTime: 2021-11-20 19:15:02
  * @LastEditors: Please set LastEditors
  * @Description: README.md
  * @FilePath: \1.3_Leetcode_SQL_All_Solution\README.md
@@ -22,7 +22,7 @@ And for the first draft, I mainly focus on **MySQL Currently**.
 ## Table of Content
 
 - [LeetCode SQL Questions by Topcis](#leetcode-sql-questions-by-topics)
-  - [Basics](#basics)
+  - [Basic](#basic)
   - [SQL Command](#sql-command)
   - [Join](#join)
   - [Subquery](#subquery)
@@ -35,7 +35,7 @@ And for the first draft, I mainly focus on **MySQL Currently**.
 
 ## LeetCode SQL Questions by Topics
 
-### Basics
+### Basic
 
 | **#** | **Title**                                                           | **Difficulty** | **Solution**                                       |
 | ----- | ------------------------------------------------------------------- | -------------- | -------------------------------------------------- |
