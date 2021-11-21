@@ -23,3 +23,31 @@
 -- | Bill |
 -- | Zack |
 -- +------+
+CREATE TABLE customer (
+  `id` INTEGER,
+  `name` VARCHAR(4),
+  `referee_id` VARCHAR(4)
+);
+
+INSERT INTO customer
+  (`id`, `name`, `referee_id`)
+VALUES
+  ('1', 'Will', 'NULL'),
+  ('2', 'Jane', 'NULL'),
+  ('3', 'Alex', '2'),
+  ('4', 'Bill', 'NULL'),
+  ('5', 'Zack', '1'),
+  ('6', 'Mark', '2');
+
+CREATE TABLE Result (
+  `name` VARCHAR(4),
+  `ignore` VARCHAR(1)
+);
+
+INSERT INTO Result
+  (`name`, `ignore`)
+VALUES
+  ('Will', '_'),
+  ('Jane', '_'),
+  ('Bill', '_'),
+  ('Zack', '_');
