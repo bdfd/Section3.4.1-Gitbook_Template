@@ -1,4 +1,4 @@
--- Question 86
+-- Question 578
 -- Get the highest answer rate question from a table survey_log with these columns: id, action, question_id, answer_id, q_num, timestamp.
 
 -- id means user id; action has these kind of values: "show", "answer", "skip"; answer_id is not null when action column is "answer", 
