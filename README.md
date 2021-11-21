@@ -37,9 +37,9 @@ And for the first draft, I mainly focus on **MySQL Currently**.
 
 ### Basic
 
-| **#** | **Title**                                                                | **Difficulty** | **Solution**                                       |
-| ----- | ------------------------------------------------------------------------ | -------------- | -------------------------------------------------- |
-| 182   | [Duplicate Emails](https://www.db-fiddle.com/f/qEXCKpHPcRJXUTRtuCmeha/0) | Easy           | [Soln.](../master/Basics/182_Duplicate_Emails.sql) |
+| **#** | **Title**                                                                | **Difficulty** | **Solution**                                            |
+| ----- | ------------------------------------------------------------------------ | -------------- | ------------------------------------------------------- |
+| 182   | [Duplicate Emails](https://www.db-fiddle.com/f/qEXCKpHPcRJXUTRtuCmeha/0) | Easy           | [Soln.](../master/1.1%20Basic/182.Duplicate_Emails.sql) |
 
 ### SQL Command
 
