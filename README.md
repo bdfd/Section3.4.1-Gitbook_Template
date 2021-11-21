@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2021-11-20 18:43:50
- * @LastEditTime: 2021-11-20 19:34:18
+ * @LastEditTime: 2021-11-20 19:35:34
  * @LastEditors: Please set LastEditors
  * @Description: README.md
  * @FilePath: \1.3_Leetcode_SQL_All_Solution\README.md
@@ -37,9 +37,9 @@ And for the first draft, I mainly focus on **MySQL Currently**.
 
 ### Basic
 
-| **#** | **Title**                                                                | **Difficulty** | **Solution**                                            |
-| ----- | ------------------------------------------------------------------------ | -------------- | ------------------------------------------------------- |
-| 182   | [Duplicate Emails](https://www.db-fiddle.com/f/qEXCKpHPcRJXUTRtuCmeha/0) | Easy           | [Soln.](../master/1.1%20Basic/182.Duplicate_Emails.sql) |
+| **#** | **Title**                                                                | **Difficulty** | **Solution**                                          |
+| ----- | ------------------------------------------------------------------------ | -------------- | ----------------------------------------------------- |
+| 182   | [Duplicate Emails](https://www.db-fiddle.com/f/qEXCKpHPcRJXUTRtuCmeha/0) | Easy           | [Soln.](../main/1.1%20Basic/182.Duplicate_Emails.sql) |
 
 ### SQL Command
 
