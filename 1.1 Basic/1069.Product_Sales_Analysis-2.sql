@@ -10,7 +10,7 @@
 -- | quantity    | int   |
 -- | price       | int   |
 -- +-------------+-------+
--- (sale_id, year) is the primary key of this table.
+-- sale_id is the primary key of this table.
 -- product_id is a foreign key to Product table.
 -- Note that the price is per unit.
 -- Table: Product
@@ -24,9 +24,9 @@
 -- product_id is the primary key of this table.
  
 
--- Write an SQL query that reports all product names of the products in the Sales table along with their selling year and price.
+-- Write an SQL query that reports the total quantity sold for every product id.
 
--- For example:
+-- The query result format is in the following example:
 
 -- Sales table:
 -- +---------+------------+------+----------+-------+
@@ -47,10 +47,9 @@
 -- +------------+--------------+
 
 -- Result table:
--- +--------------+-------+-------+
--- | product_name | year  | price |
--- +--------------+-------+-------+
--- | Nokia        | 2008  | 5000  |
--- | Nokia        | 2009  | 5000  |
--- | Apple        | 2011  | 9000  |
--- +--------------+-------+-------+
+-- +--------------+----------------+
+-- | product_id   | total_quantity |
+-- +--------------+----------------+
+-- | 100          | 22             |
+-- | 200          | 15             |
+-- +--------------+----------------+
