@@ -44,4 +44,4 @@ CREATE TABLE Result (
 INSERT INTO Result
   (`Email`, `ignore`)
 VALUES
-  ('a@b.com', '_');
+  ('a@b.com', '_'); 
