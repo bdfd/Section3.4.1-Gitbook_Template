@@ -1,10 +1,10 @@
 <!--
  * @Author: BDFD
- * @Date: 2022-03-04 15:35:28
- * @LastEditTime: 2022-03-04 15:46:26
+ * @Date: 2022-03-04 16:05:39
+ * @LastEditTime: 2022-03-04 16:09:12
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \Awesome_SQL_Interview_Killer\1.3&2.2 Subquery\176.md
+ * @FilePath: \Awesome_SQL_Interview_Killer\2.2 Advanced Subquery\176 Second Highest Salary.md
 -->
 
 **Question Description**  
