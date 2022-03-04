@@ -1,4 +1,4 @@
-# Copy of 177 Nth Hightest Salary
+# 178 Test File
 
 **Question Description**\
 Write a SQL query to get the nth highest salary from the Employee table.
