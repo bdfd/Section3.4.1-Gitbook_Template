@@ -1,10 +1,10 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-03-04 15:35:28
- * @LastEditTime: 2022-03-04 16:43:13
+ * @LastEditTime: 2022-03-04 16:45:01
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \Awesome_SQL_Interview_Killer\1.5 Window Function\177 Nth Hightest Salary.md
+ * @FilePath: \Awesome_SQL_Interview_Killer\3.1 Offset Fetch\177 Nth Hightest Salary.md
 -->
 
 **Question Description**  
@@ -15,7 +15,7 @@ Write a SQL query to get the nth highest salary from the Employee table.
 **Question Tip**
 
 1. set up variable for start_point and finish_point
-2. create temp table <a> which use dense rank
+2. create temp table_a which use dense rank
 3. use distinct function in order to get only one result for each number
 4. find the salary between start_point and finish_point
 
