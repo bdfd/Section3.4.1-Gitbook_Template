@@ -1,13 +1,11 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-03-04 17:41:09
- * @LastEditTime: 2022-03-04 18:05:57
+ * @LastEditTime: 2022-03-04 18:09:01
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \Awesome_SQL_Interview_Killer\1.5-window-function\178-test-file.md
 -->
-
-# 178 Test Question
 
 **Question Description**\
 Write a SQL query to get the nth highest salary from the Employee table.
