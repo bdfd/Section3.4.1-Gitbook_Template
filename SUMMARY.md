@@ -14,6 +14,7 @@
 * [1.5 Window Function](1.5-window-function/README.md)
   * [176 Second Highest Salary](<1.5 Window Function/176 Second Highest Salary.md>)
   * [177 Nth Hightest Salary](1.5-window-function/177-nth-hightest-salary.md)
+  * [Copy of 177 Nth Hightest Salary](1.5-window-function/copy-of-177-nth-hightest-salary.md)
 * [2.1 Advanced Join](2.1-advanced-join/README.md)
   * [176 Second Highest Salary](<2.1 Advanced Join/176 Second Highest Salary.md>)
 * [2.2 Advanced Subquery](2.2-advanced-subquery/README.md)
