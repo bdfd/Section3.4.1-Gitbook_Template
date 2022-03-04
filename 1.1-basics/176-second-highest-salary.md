@@ -1,11 +1,13 @@
 <!--
  * @Author: BDFD
- * @Date: 2022-03-04 16:05:43
- * @LastEditTime: 2022-03-04 16:09:29
+ * @Date: 2022-03-04 16:05:35
+ * @LastEditTime: 2022-03-04 17:57:49
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \Awesome_SQL_Interview_Killer\3.3 Variable\176 Second Highest Salary.md
+ * @FilePath: \Awesome_SQL_Interview_Killer\1.1-basics\176-second-highest-salary.md
 -->
+
+# 176 Second Highest Salary
 
 **Question Description**  
 Write a SQL query to get the second highest salary from the Employee table.
