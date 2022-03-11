@@ -1,10 +1,10 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-03-04 16:05:34
- * @LastEditTime: 2022-03-11 15:06:28
+ * @LastEditTime: 2022-03-11 15:07:35
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \Awesome_SQL_Interview_Killer\1.5-window-function\176-second-highest-salary.md
+ * @FilePath: \Awesome_SQL_Interview_Killer\3.1-offset-fetch\176-second-highest-salary.md
 -->
 
 **Question Description**  
@@ -127,6 +127,5 @@ In the case table is empty it should return null as well.
 
 ---
 
-[View on DB Fiddle](https://www.db-fiddle.com/f/58xZeJKyNuXp4me8AmtUbe/1)
 [Solution 1 Link](https://www.db-fiddle.com/f/4ZUN7bCqcJd19ueqEF9RCJ/1)
 [Solution 2 Link](https://www.db-fiddle.com/f/58xZeJKyNuXp4me8AmtUbe/1)
